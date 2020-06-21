@@ -1,6 +1,6 @@
 # Introduce
 
-------
+
 
 ## Profile
 
@@ -12,8 +12,6 @@
 - Framework&Platform: Django, Django restframework, Echo, Android, AWS
 
 ## Project
-
----
 
 1. 우아마켓
    - 주요업무: 서비스 기획 및 팀 리딩, 백엔드 개발, 사용자 기반 데이터 분석
@@ -42,12 +40,12 @@
 2. 우리아이
    - 주요업무: 안드로이드 앱 개발 및 백엔드 개발
    - 상세내용:
-     
+   
   1. 안드로이드
-     
+    
         - 버전 1.0 Java 기반 어플리케이션 개발
         - 버전 2.0 MVVM 패턴 적용, kotlin&RxJava2 기반 어플리케이션 개발
-     
+       
      2. 백엔드
      
         - DB설계 및 API설계
@@ -103,15 +101,11 @@
 
 ## Career
 
----
-
 1. 2016-현재: (주)플랜아이
    - Android App개발
    - Python&Django, Go&Echo 백엔드 개발
    - 서비스 기획 및 데이터 분석
 
 ## Education
-
----
 
 1. 2015.12~2016.03: T아카데미 안드로이드 전문가 과정 수료
