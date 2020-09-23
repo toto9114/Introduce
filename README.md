@@ -31,7 +31,7 @@
        - 로깅 시스템 구축 및 지표추출 로그분석 스크립트 개발
        - 서비스:
          - 판매자: https://seller.wooah-market.com/
-     	     - 구매자: https://wooah-market.com/
+     	 - 구매자: https://wooah-market.com/
 
 #### 2. 우리아이
      - 주요업무: 안드로이드 앱 개발 및 백엔드 개발
