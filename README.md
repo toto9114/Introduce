@@ -33,6 +33,7 @@
        - 서비스:
          - 판매자: https://seller.wooah-market.com/
          - 구매자: https://wooah-market.com/
+
     4. 기타
        - 카카오 채널 운영 등 고객응대
        - 외부 서비스(팝빌, 비즈엠) 연동 및 비용관리
