@@ -9,7 +9,8 @@
 - Email: jihun3353@gmail.com
 - Role: Back-end Engineer, Android Developer, Data analyst, Product Owner
 - Language: Python, Go, Java, Kotlin
-- Framework&Platform: Django, Django restframework, Echo, Android, AWS, Linux, ELK
+- Framework&Platform: Django, Django restframework, Echo, Android, AWS, Linux, ELK,
+  Flask, Terraform, cdk8s
 
 ## Project
 
