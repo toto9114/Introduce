@@ -96,10 +96,13 @@
 
 ## Career
 
-1. 2016-현재: (주)플랜아이
+1. 2016.03-2022.02: (주)플랜아이
    - Android App개발
    - Python&Django, Go&Echo 백엔드 개발
    - 서비스 기획 및 데이터 분석
+2. 2022.03-현재: (주)옴니어스
+   - Flask 기반 Backend 개발
+   - terraform, cdk8s 활용 infra, k8s object 관리
 
 ## Education
 
