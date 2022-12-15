@@ -95,6 +95,23 @@
          - Firebase Phone Oauth2 기반 인증 구현
          - Okhttp 네트워킹, SqliteHelper 내부 DB사용
 
+
+#### 7. Alffy(서비스 종료)
+   - 주요업무: 백엔드개발, 데이터 파이프라인 구축
+   - 상세내용:
+      1. flask 기반 backend app 개발
+      2. instagram 크롤링 데이터 및 AI모델 결과값 데이터 파이프라인 구축
+
+
+#### 8. Datalab (Data Platform)
+   - 주요업무: 백엔드 개발, 데이터 파이프라인 구축, data migration
+   - 상세내용:
+      1. 기존 Labeling system 개선을 위한 인프라 및 백엔드 관련 리뉴얼
+      2. terraform 기반 infra 설계 및 관리
+      3. cdk8s kubernetes 배포 관리
+      4. 데이터 파이프라인 구성(AWS sns, sqs)
+      5. 별도 마이그레이션 파이프라인 구성을 통한 대규모 data migration(RDB, S3)
+
 ## Career
 
 1. 2016.03-2022.02: (주)플랜아이
