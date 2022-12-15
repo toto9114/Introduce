@@ -108,7 +108,7 @@
    - 상세내용:
       1. 기존 Labeling system 개선을 위한 인프라 및 백엔드 관련 리뉴얼
       2. terraform 기반 infra 설계 및 관리
-      3. cdk8s kubernetes 배포 관리
+      3. cdk8s kubernetes 배포 관리 (관련작성 블로그: https://omnious.ai/ko-kr/resources/cdk8s-python-application-deploy/)
       4. 데이터 파이프라인 구성(AWS sns, sqs)
       5. 별도 마이그레이션 파이프라인 구성을 통한 대규모 data migration(RDB, S3)
 
